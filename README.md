@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 🦁</h1>
 
-<!--
-**ravivalentim/ravivalentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Welcome to my profile👾</h2>
 
-Here are some ideas to get you started:
+- 👋 Hello, I'm Ravi Valentim.
+- 🌱 I’m currently learning C++ and Embedded Systems 
+- 👀 I'm interested in embedded software development.
+- 🤔 I’m looking for help with Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<hr>
+<hr>
+
+<h2  align="center"><strong>Contact me</strong>📧</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravivalentim/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+</p>
