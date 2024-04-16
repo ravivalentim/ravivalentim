@@ -5,8 +5,7 @@
 - 👋 Hello, I'm Ravi Valentim.
 - 🌱 I’m currently learning C++ and Embedded Systems 
 - 👀 I'm interested in embedded software development.
-- 🤔 I’m looking for help with Docker
-
+- 
 <hr>
 <hr>
 <hr>
