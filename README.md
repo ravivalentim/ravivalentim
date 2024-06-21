@@ -1,12 +1,9 @@
-<h1 align="center">Welcome to my profile </h1>
 
-<hr>
-<ul>
-  <li>👋 Hello, I'm Ravi Valentim.</li>
-  <li>🌱 I’m currently learning C++ and Embedded Systems</li>
-  <li>👀 I'm interested in embedded software development.</li>
-</ul>
-<hr>
+<h1>Hello</h1>
+
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhsbTcweXBiNGw5YmQ1dmg3aHg4djRsMDBoYTF3Z2NkbzBiMTZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="230">
+
+
 
 <h2  align="center"><strong>Contact me</strong></h2>
 
