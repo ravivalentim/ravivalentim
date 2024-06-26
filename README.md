@@ -6,9 +6,11 @@
 
 <h3>Contact me</h3>
 
-<p align="center">
+<p>
     <a href="mailto:lr04al8p7@mozmail.com">
-        <img src="images/message.png" width="32"></a>
-    <a href="https://www.linkedin.com/in/ravivalentim/">
-        <img src="images/linkedin.png" width="32"></a>
+        <img src="message.png"></a>
+</p>
+<p>
+        <a href="https://www.linkedin.com/in/ravivalentim/">
+        <img src="linkedin.png"></a>
 </p>
