@@ -1,18 +1,18 @@
-<h2 align="center">Hello, welcome to my profile</h2>
-
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhsbTcweXBiNGw5YmQ1dmg3aHg4djRsMDBoYTF3Z2NkbzBiMTZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="230">
-
-<p>Hi, I'm Ravi Gabriel Valentim and I'm interested in the development of embedded systems. I am studying a bachelor's degree in Computer Science.</p>
-
-<!--
-<h3>Contact me</h3>
-
-<p>
-    <a href="mailto:lr04al8p7@mozmail.com">
-        <img src="message.png"></a>
-</p>
-<p>
-        <a href="https://www.linkedin.com/in/ravivalentim/">
-        <img src="linkedin.png"></a>
-</p>
--->
+  <img align="center" alt="Coding" width="800" src="https://i.ibb.co/7dBRDfDv/banner.jpg"/>
+  <p align="center""> I am interested in systems development (kernel, drivers). C++ </p>
+  
+  <hr>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <hr>
+  
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ravivalentim&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ravivalentim&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravivalentim&show_icons=true"/>
+</picture>
