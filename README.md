@@ -1,18 +1,24 @@
-<h2 align="center">Hello, welcome to my profile</h2>
+# 👋 Olá! Eu sou Ravi
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhsbTcweXBiNGw5YmQ1dmg3aHg4djRsMDBoYTF3Z2NkbzBiMTZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="230">
+## 🚀 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento de sistemas embarcados.
 
-<p>Hi, I'm Ravi Gabriel Valentim and I'm interested in the development of embedded systems. I am studying a bachelor's degree in Computer Science.</p>
+- 🌱 Atualmente estudando: C/C++ e Assembly
+- 💬 Me pergunte sobre: Desenvolvimento de Software Embarcado
+- 📫 Como me encontrar: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/ravivalentim/)
 
-<!--
-<h3>Contact me</h3>
+## 🛠️ Tecnologias e Ferramentas
 
-<p>
-    <a href="mailto:lr04al8p7@mozmail.com">
-        <img src="message.png"></a>
-</p>
-<p>
-        <a href="https://www.linkedin.com/in/ravivalentim/">
-        <img src="linkedin.png"></a>
-</p>
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=gnuassembly&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<!-- Adicione mais conforme sua stack -->
+
+## 📊 GitHub Stats
+
+![Ravi Valentim](https://github-readme-stats.vercel.app/api?username=ravivalentim&show_icons=true&theme=radical)
