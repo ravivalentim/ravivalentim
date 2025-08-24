@@ -3,9 +3,9 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento de sistemas embarcados.
 
-- 🌱 Atualmente estudando: C/C++ e Assembly
-- 💬 Me pergunte sobre: Desenvolvimento de Software Embarcado
-- 📫 Como me encontrar: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ravivalentim/)
+- 🌱 Atualmente estudando: C/C++ e Assembly ⌨️
+- 💬 Me pergunte sobre: Desenvolvimento de Software Embarcado e C++
+- 📫 Como me encontrar: [![Email](https://img.shields.io/badge/Email-contato%40ravivalentim@gmail.com-red)](mailto:contato.ravivalentim@gmail.com)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ravivalentim/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
