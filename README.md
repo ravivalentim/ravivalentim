@@ -1,6 +1,6 @@
 
 <!-- Github banner -->
-[![github-header-banner.png](https://i.postimg.cc/L8RYcFFH/github-header-banner.png)](https://postimg.cc/6yjpZSQS)
+[![github-header-banner.png](https://i.postimg.cc/L8RYcFFH/github-header-banner.png)](https://github.com/ravivalentim)
 
 <!--
 <picture>
