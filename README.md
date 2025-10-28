@@ -20,9 +20,11 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ravivalentim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ravivalentim's GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=ravivalentim&theme=tokyonight&hide_border=true" alt="ravivalentim's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravivalentim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="ravivalentim's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravivalentim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ravivalentim's GitHub Stats" />
 </p>
 
 <hr>
