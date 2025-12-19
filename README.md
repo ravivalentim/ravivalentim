@@ -17,11 +17,13 @@
 
 <hr>
 
+<!--
 <p align="center">
   <a href="mailto:contato.rav@proton.me">
     <img src="https://img.shields.io/badge/Email-contato.rav%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
+-->
 
 <!-- Snake animation -->
 <picture>
