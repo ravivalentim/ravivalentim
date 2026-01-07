@@ -2,7 +2,7 @@
 <!-- Github banner -->
 <!-- [![github-header-banner.png](https://i.postimg.cc/L8RYcFFH/github-header-banner.png)](https://github.com/ravivalentim)--->
 
-[![github-header-banner.png](https://i.postimg.cc/ZYc4brfW/github-header-banner.png)](https://postimg.cc/fkJ650Qs)
+[![github-header-banner.png](https://i.postimg.cc/ZYc4brfW/github-header-banner.png)](https://github.com/ravivalentim)
 <hr>
 
 <p align="center">
