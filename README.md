@@ -5,6 +5,7 @@
 [![github-header-banner.png](https://i.postimg.cc/ZYc4brfW/github-header-banner.png)](https://github.com/ravivalentim)
 <hr>
 
+<!--
 <p align="center">
     <a href="https://github.com/ravivalentim" target="_self">
         <img src="https://streak-stats.demolab.com?user=ravivalentim&theme=tokyonight&hide_border=true" alt="ravivalentim's GitHub Stats" />
@@ -17,6 +18,7 @@
 </p>
 
 <hr>
+-->
 
 <!--
 <p align="center">
